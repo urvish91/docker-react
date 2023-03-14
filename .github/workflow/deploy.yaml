@@ -1,4 +1,4 @@
-name: Deploy Docker React
+name: Deploy Docker React App
 on:
   push:
     branches:
